@@ -1,40 +1,5 @@
-<div align="center">
-    <div>
-        <p align="center"><a href="https://publicapis.dev?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/public-apis.png" width="300px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="300px"><img alt="Scrapfly logo" src="./assets/public-apis.png" width="300px"></picture></a>
-        </p>
-        <p align="center"><a href="https://publicapis.dev?ref=public_apis&utm_medium=repo_readme">Public APIs</a> — A collaborative list of public APIs for developers.</p>
-    </div>
-</div>
 
-<br/>
-<hr/>
-<br/>
-
-<div align="center">Sponsored by</div>
-
-<br/>
-
-<div>
-    <p align="center"><a href="https://scrapfly.io?ref=public_apis&utm_medium=repo_readme"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/scrapfly-dark-mode.svg" width="180px"><source media="(prefers-color-scheme: light)" srcset="./assets/scrapfly-light-mode.svg" width="180px"><img alt="Scrapfly logo" src="./assets/scrapfly-dark-mode.svg" width="180px"></picture></a>
-    </p>
-    <p align="center"><a href="https://scrapfly.io?ref=public_apis&utm_medium=repo_readme">Scrapfly</a> offers a top-tier Web Scraping API that simplifies scraping by handling real browser rendering, rotating proxies, and various fingerprints to overcome major anti-bot measures.</p>
-</div>
-
-<br/>
-<hr/>
-<br/>
-<br/>
-
-
-<div align="center">
-    <a href="API.md">API</a> •
-    <a href="CONTRIBUTING.md">Contributing Guide</a> •
-    <a href="https://github.com/marcelscruz/public-apis/issues">Issues</a> •
-    <a href="https://github.com/marcelscruz/public-apis/pulls">Pull Requests</a> •
-    <a href="LICENSE">License</a>
-</div>
-
-## Index
+## # Index
 * [Animals](#animals)
 * [Anime](#anime)
 * [Anti-Malware](#anti-malware)
