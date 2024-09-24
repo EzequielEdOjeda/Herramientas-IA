@@ -1,51 +1,4 @@
 
-
-### Want to Write Effective Prompts?
-
-I've authored an e-book called **"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
-
-### Want to Learn How to Make Money using ChatGPT Prompts?
-
-I've authored an e-book called **"How to Make Money with ChatGPT: Strategies, Tips, and Tactics"**.
-
-### Want to secure your ChatGPT apps?
-
-[Utku Şen](https://twitter.com/utkusen) authored an e-book called **"Securing GPT: A Practical Introduction to Attack and Defend ChatGPT Applications"**.
-
----
-
-## Other Prompting Resources
-
-### Want to Learn How to write image prompts for Midjourney AI?
-
-I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating Images from Text"**.
-
----
-
-### Create your own prompt using AI
-
-[Merve Noyan](https://huggingface.co/merve) created an exceptional [ChatGPT Prompt Generator App](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator), allowing users to generate prompts tailored to their desired persona. The app uses this repository as its training dataset.
-
----
-
-### Using prompts.chat
-
-[prompts.chat](https://prompts.chat) is designed to provide an enhanced UX when working with prompts. With just a few clicks, you can easily edit and copy the prompts on the site to fit your specific needs and preferences. The copy button will copy the prompt exactly as you have edited it.
-
----
-
-## Dark Mode (on https://prompts.chat)
-
-We have implemented a dark mode for this repository to enhance your reading experience. The dark mode is implemented using CSS variables and a toggle button. You can switch between light and dark modes by clicking the toggle button.
-
-## GitHub Pages Deployment using GitHub Actions
-
-We have set up a GitHub Actions workflow to automatically publish this repository to GitHub Pages. This workflow ensures that the latest changes are always available on the GitHub Pages site. You can find the workflow configuration in the `.github/workflows/publish.yml` file.
-
-## Unmerged Prompts
-
-There are many Pull Requests to this repository waiting to be merged. There are many hidden gems there. Take a look!
-
 # Prompts
 
 ## ChatGPT SEO prompts
@@ -68,6 +21,10 @@ There are many Pull Requests to this repository waiting to be merged. There are 
 **Alternative to**: Grammarly, Google Translate
 
 > I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper level English words and sentences. Keep the meaning same, but make them more literary. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first sentence is "istanbulu cok seviyom burada olmak cok guzel"
+
+## Act as an English Teacher
+
+Asume eres un experto en enseñar inglés a personas de latinoamérica para preparar para entrevistas de trabajo y apoyo en cargos a perfiles del área de la industria tecnológica.Te pido que simulemos una conversación y me corrijas si digo algo incorrecto en inglés, para así ayudarme a pronunciar mejor y/o como poder expresar mejor ciertas frases o palabras.La idea es que tú partas presentándote y me hagas primero una pregunta, y cuando yo te responda me des retroalimentación de mi respuesta y me hagas otra pregunta (todo esto en inglés).Importante, ESPERA a que yo te responda cada pregunta y luego me das feedbacks y me haces siguiente pregunta
 
 ## Act as `position` Interviewer
 **Examples**: Node.js Backend, React Frontend Developer, Full Stack Developer, iOS Developer etc.
