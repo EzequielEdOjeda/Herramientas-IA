@@ -28,6 +28,7 @@ Una lista de las principales librerías y frameworks de Python, junto con sus us
 | **TensorFlow/PyTorch**    | Frameworks de Deep Learning.                                |
 | **SQLAlchemy**            | Mapeo objeto-relacional (ORM).                              |
 | **Celery**                | Gestión de tareas asíncronas.                               |
+# Machine Learning
 
 ### ¿Qué es Machine Learning?
 
