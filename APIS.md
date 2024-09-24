@@ -1,4 +1,5 @@
-* [Index](#index)
+
+## Index
 * [Animals](#animals)
 * [Anime](#anime)
 * [Anti-Malware](#anti-malware)
