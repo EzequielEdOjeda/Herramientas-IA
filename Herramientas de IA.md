@@ -1,6 +1,4 @@
 
-# Tomar Apuntes y notas
-
 ## Compendio de Herramientas de Interfaces
 
 * There Is an AI for That [Enlace](https://theresanaiforthat.com/)
