@@ -8,7 +8,7 @@
 
 ## Otros Modelos Populares
 
-- 🔥**groq** Modelo de Inferencia RAPIDISIMO[Enlace](https://groq.com/)
+- 🔥**Groq** Modelo de Inferencia. [Enlace](https://groq.com/)
 - 🧩 **Perplexity**: Modelo de lenguaje de Anthropic. [Enlace](https://www.anthropic.com/product)
 - 🦙 **Llama 3**: Modelo de Meta conocido por su capacidad multilingüe. [Enlace](https://llama.meta.com/llama3/)
 > 🦙 Actualmente no funciona en Argentina por lo que para probarlo uso la web Anakin Ai [Enlace](https://app.anakin.ai/)
@@ -21,8 +21,8 @@
 - 🧠 **You** LLM especializado en busquedas en internet comepetencia de google [Enlace](https://you.com/)
 
 ## Otros enlaces de LLM
-
 - 🔥**Anakin.ai** Plataforma de Aplicaciones de Inteligencia Artificial Todo en Uno [Enlace](https://anakin.ai/)
+- 🔥**Gemini AI** API de Inteligencia Artificial de Google [Enlace](https://aistudio.google.com/)
 - ⚔️**Lmsys Chatbot Arena** na. Es una plataforma donde puedes interactuar con dos chatbots diferentes y elegir el que prefieras.[Enlace](https://chat.lmsys.org/)
 
 ## Empresas de IA
