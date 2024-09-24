@@ -1,4 +1,65 @@
 
+* Synthesia
+> https://www.synthesia.io/
+
+* Hey Gen
+> https://app.heygen.com/home
+
+* Runway ML
+> https://runwayml.com/
+
+* Pika Art
+> https://pika.art/
+
+* Luma Labs
+> https://lumalabs.ai/
+
+* Hedra 
+> https://www.hedra.com/
+
+* Noisee (Generacion de Videos Musicales)
+> https://noisee.ai/
+
+* Suno AI
+> https://suno.com/
+
+* Udio
+> https://www.udio.com/
+    
+* Leonardo AI
+> https://leonardo.ai/
+
+* BlueWillow
+> https://www.bluewillow.ai/
+
+* Microsoft Designer
+> https://designer.microsoft.com/
+
+* Ideogram
+> https://ideogram.ai/
+
+* Crayon AI
+>  https://www.craiyon.com/
+
+* Generar Comics
+> https://aicomicfactory.com/es
+
+* MidJourney
+> https://www.midjourney.com/home
+
+* OpenAI art
+> https://openart.ai/
+
+* Presentaciones en Google Slides
+
+https://workspace.google.com/marketplace/app/slidesaiio_create_slides_with_ai/904276957168?hl=es
+
+* Gamma App
+> https://gamma.app/
+
+* Tome App (Paga)
+> https://tome.app/
+
 * Generacion de Imagenes
 > https://tensor.art/
 
