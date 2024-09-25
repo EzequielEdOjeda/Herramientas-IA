@@ -39,7 +39,7 @@ Esto da como resultado un modelo que puede hacer predicciones sobre nuevos datos
 5. **Evaluar el modelo**: Probar el modelo con los datos de prueba para medir su precisión.
 6. **Utilizar el modelo**: Una vez evaluado, el modelo se usa para hacer predicciones sobre nuevos datos.
 
-# Ejemplo de Aplicación de Predicción del Clima
+## Ejemplo de Aplicación de Predicción del Clima
 
 ## 1) **Features**:
 Los **features** o características utilizadas para predecir el clima incluyen:
