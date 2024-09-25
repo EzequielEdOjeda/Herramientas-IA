@@ -55,6 +55,7 @@
 - [Awesome Python Libraries](https://github.com/uhub/awesome-python)
 - [Kaggle (Recurso para Aprender ML)](https://www.kaggle.com/)
 - [Hugging Face Spaces](https://huggingface.co/spaces)
+- [Google API IA](https://aistudio.google.com/)
 - [There is an AI for That](https://theresanaiforthat.com/)
 
 ## Creación de Personas Digitales y Avatares
@@ -65,6 +66,7 @@
 
 ## Otras Herramientas Útiles
 - [Mapa Musical](https://m.musicmap.info/)
+- [Chat IA sin censura](https://venice.ai/es)
 - [Meetiups](https://www.meetup.com/es/sysarmy/)
 - [Mermaid (Diagramas)](https://mermaid.live/)
 - [Edotor (Grafos)](https://edotor.net/)
