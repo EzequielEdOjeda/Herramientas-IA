@@ -39,6 +39,36 @@ Esto da como resultado un modelo que puede hacer predicciones sobre nuevos datos
 5. **Evaluar el modelo**: Probar el modelo con los datos de prueba para medir su precisión.
 6. **Utilizar el modelo**: Una vez evaluado, el modelo se usa para hacer predicciones sobre nuevos datos.
 
+# Ejemplo de Aplicación de Predicción del Clima
+
+## 1) **Features**:
+Los **features** o características utilizadas para predecir el clima incluyen:
+
+- **Temperatura** (°C)
+- **Humedad** (%)
+- **Presión atmosférica** (hPa)
+- **Velocidad del viento** (km/h)
+- **Dirección del viento** (grados)
+- **Nubosidad** (%)
+- **Precipitación** (mm)
+
+## 2) **Labels**:
+El **label** o **target** es el clima futuro que se desea predecir:
+
+- **Temperatura futura** y clasificación del clima como:
+  - Soleado
+  - Lluvioso
+  - Nublado
+  - Otros fenómenos meteorológicos
+
+## 3) **Generación del Dataset**:
+- **Fuentes de datos meteorológicos**: 
+  Datos obtenidos de servicios como **OpenWeatherMap**, **Meteorología Nacional**, o plataformas similares.
+  
+- **Preprocesamiento**:
+  - **Limpieza de datos**: Eliminar datos erróneos o faltantes.
+  - **Normalización**: Escalar los datos para que las variables estén en rangos similares.
+  - **Ventanas temporales**: Crear secuencias de tiempo basadas en datos meteorológicos pasados para predecir el clima futuro.
 
 # 🔗 Enlaces de Machine Learning
 
