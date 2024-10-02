@@ -80,5 +80,10 @@
 - [PythonAnywhere (Host de Notebooks)](https://www.pythonanywhere.com/)
 - [MySQL Learning (W3Schools)](https://www.w3schools.com/mysql/mysql_select.asp)
 - [MySQL Installer](https://dev.mysql.com/downloads/installer/)
+- [API para subir archivos](https://gofile.io/api)
+- [IDE de Google](https://idx.google.com/)
+- [ElevenLabs (Para todo lo que es Text to Speech)](https://elevenlabs.io/)
+- [RaskAi (Herramienta para hacer Traducciones)](https://es.rask.ai/)
+- [NapkinAI](https://www.napkin.ai/)
+- [Notebook LM (Podcast)](https://notebooklm.google/)
 
-  
