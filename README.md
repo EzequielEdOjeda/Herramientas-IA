@@ -6,7 +6,7 @@ Este repositorio recopila temas relacionados con **Inteligencia Artificial** y *
 
 **ChatGPT**: Perfecto para iniciarse en la IA generativa, pero recuerda verificar siempre los resultados.
 
-**Consensus.app*": Encuentra el consenso científico actual en cualquier tema que investigue.
+**Consensus.app**: Encuentra el consenso científico actual en cualquier tema que investigue.
 
 **Grok**: La mejor IA para generar imágenes altamente realistas.
 
