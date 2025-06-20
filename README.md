@@ -65,3 +65,5 @@ Una lista de las principales librerías y frameworks de Python, junto con sus us
 | **SQLAlchemy**            | Mapeo objeto-relacional (ORM).                              |
 | **Celery**                | Gestión de tareas asíncronas.                               |
 | **Pyinstaller**           | Compilar a .EXE para escritorio.                            |
+
+## No olvides darle ⭐ a este repositorio si te gustó.
